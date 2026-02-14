@@ -41,7 +41,7 @@ Desarrollar en el estudiante la capacidad de diseñar y construir páginas web e
 | 05 | CSS básico               | color, fuentes    |
 | 06 | Selectores CSS           | clases e IDs      |
 | 07 | Flexbox                  | maquetación       |
-| 08 | JavaScript básico        | introducción, sintaxis, variables, solicitar/mostrar datos, estructuras secenciales | Pr01_JS_Fecha_Apellido   |
+| 08 | JavaScript básico        | sintaxis, variables, solicitar/mostrar datos, estructuras secenciales | Pr01_JS_Fecha_Apellido   |
 | 09 | JavaScript condicionales | estructuras condicionales                                                           | Pr02_JS_Fecha_Apellido   |
 | 10 | JavaScript repetitivas   | estructuras repetitivas                                                             | Pr03_JS_Fecha_Apellido   |
 | 09 | Eventos y DOM            | interacción       |
