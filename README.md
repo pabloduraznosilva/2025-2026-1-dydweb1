@@ -32,8 +32,8 @@ Desarrollar en el estudiante la capacidad de diseñar y construir páginas web e
 ---
 ## 📂 Estructura del Repositorio
 
-| Nº | Práctica                 | Tema              |
-|----|--------------------------|-------------------|
+| Nº | Práctica                 | Tema                                                                                | Carpeta                  |
+|----|--------------------------|----------------------------------------------------------------------------------------------------------------|
 | 01 | Introducción a HTML      | Conceptos básicos |
 | 02 | Estructura del documento | head, body        |
 | 03 | Etiquetas básicas        | h1, p, strong     |
@@ -41,7 +41,9 @@ Desarrollar en el estudiante la capacidad de diseñar y construir páginas web e
 | 05 | CSS básico               | color, fuentes    |
 | 06 | Selectores CSS           | clases e IDs      |
 | 07 | Flexbox                  | maquetación       |
-| 08 | JavaScript básico        | variables         |
+| 08 | JavaScript básico        | introducción, sintaxis, variables, solicitar/mostrar datos, estructuras secenciales | Pr01_JS_Fecha_Apellido   |
+| 09 | JavaScript condicionales | estructuras condicionales                                                           | Pr02_JS_Fecha_Apellido   |
+| 10 | JavaScript repetitivas   | estructuras repetitivas                                                             | Pr03_JS_Fecha_Apellido   |
 | 09 | Eventos y DOM            | interacción       |
 | 10 | Proyecto Final           | integración       |
 
