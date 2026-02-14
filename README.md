@@ -32,9 +32,9 @@ Desarrollar en el estudiante la capacidad de diseñar y construir páginas web e
 ---
 ## 📂 Estructura del Repositorio
 
-| Nº | Práctica                 | Tema                                                                                | Carpeta                  |
-|----|--------------------------|----------------------------------------------------------------------------------------------------------------|
-| 01 | Introducción a HTML      | Conceptos básicos |
+| Nº | Práctica | Tema | Carpeta |
+|----|----------|------|---------|
+| 01 | Introducción a HTML | Conceptos básicos | Pr01_HTML_Fecha_Apellido |
 | 02 | Estructura del documento | head, body        |
 | 03 | Etiquetas básicas        | h1, p, strong     |
 | 04 | Listas y enlaces         | ul, ol, a         |
